@@ -146,6 +146,15 @@
         "goofy"
       ],
       "id": "14"
+    },
+    {
+      "name": "mark",
+      "species": "markopian",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
     }
   ]
 }
